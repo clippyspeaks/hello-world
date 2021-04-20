@@ -3,8 +3,6 @@ Just...  this place.  For... yanno.... things.
 
 Hello.  I am clippyspeaks.  
 
-Prevoiusly IT Manager, network and system administrator for a small publisher that handles everything in-house in an environment that is very mac focused on the user side, and very windows focused (with a dash of linux) on the server side.  Now a sysadmin in a different industry in a Windows and Linux focused environment.
+Over 10 years in IT, started at the bottom as a field tech.  Moved to IT manager in a small organization and now System Administrator in an Enterprise environment.
 
-I'll be using this spot to catalogue some of my powershell and bash scripts and some stuff that I use for work so that I can easily get back to them.  
-
-Maybe they will be of some use to someone else?  Maybe.
+This place is mostly a place for me to keep quick scripts I've made or used to do little tasks here and there, maybe you'll find it useful.
